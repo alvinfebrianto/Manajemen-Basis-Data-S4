@@ -1,3 +1,6 @@
 ![](CRUD-CodeIgniter/img/home.png)
 ![](CRUD-CodeIgniter/img/create.png)
 ![](CRUD-CodeIgniter/img/update.png)
+![](CRUD-Yii/img/home.png)
+![](CRUD-Yii/img/create.png)
+![](CRUD-Yii/img/update.png)
