@@ -4,3 +4,6 @@
 ![](CRUD-Yii/img/home.png)
 ![](CRUD-Yii/img/create.png)
 ![](CRUD-Yii/img/update.png)
+![](CRUD-Laravel/img/home.png)
+![](CRUD-Laravel/img/create.png)
+![](CRUD-Laravel/img/update.png)
