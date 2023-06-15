@@ -1,0 +1,1 @@
+![](https://raw.githubusercontent.com/alvinfebrianto/Manajemen-Basis-Data-S4/img/UAS/0.png)
