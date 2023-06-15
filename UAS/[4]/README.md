@@ -1,4 +1,3 @@
-![](https://raw.githubusercontent.com/alvinfebrianto/Manajemen-Basis-Data-S4/img/UAS/0.png)
 ![](https://raw.githubusercontent.com/alvinfebrianto/Manajemen-Basis-Data-S4/img/UAS/Categories.png)
 ![](https://raw.githubusercontent.com/alvinfebrianto/Manajemen-Basis-Data-S4/img/UAS/Customers.png)
 ![](https://raw.githubusercontent.com/alvinfebrianto/Manajemen-Basis-Data-S4/img/UAS/Employees.png)
